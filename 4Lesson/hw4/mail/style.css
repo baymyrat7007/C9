@@ -1,0 +1,71 @@
+.container {
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h3 {
+    font-size: 32px;
+}
+.h5 {
+    font-size: 24px;
+}
+.py-5 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.bg-blue {
+    background-color: #E4F3FD;
+}
+.border-black {
+    border: 1px solid black;
+}
+.px-5 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.bg-color {
+    background-color: #F5F5F5;
+}
+.bg-color-white {
+    background-color: white;
+}
+.h4 {
+    font-size: 26px;
+}
+.w-40 {
+    width: 70%;
+}
+.font-color-white {
+    color: white;
+}
+.py-3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.font-weight {
+    font-weight: bold;
+}
+.bg-dark-blue {
+    background-color: #4B6EA9;
+    border: #4B6EA9;
+}
+.bg-light-blue {
+    background-color: #17BBF1;
+    border: #17BBF1;
+}
+.bg-red {
+    background-color: #E46149;
+    border: #E46149;
+}
+.email-font {
+    color: #2FAFEE;
+}
+.text-decoration {
+    text-decoration: none;
+}
+.col-6 {
+    width: 50%;
+}
+.display-flex {
+    display: flex;
+}

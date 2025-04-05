@@ -1,0 +1,25 @@
+.bg-color {
+    background-color: #C0C0C0;
+}
+.container {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gray {
+    color: #64645A;
+}
+.font-white {
+    color: white;
+}
+.color {
+    background-color: #E0E0E0;
+}
+.px-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.py-4 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

@@ -1,0 +1,25 @@
+.request-button {
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 35px;
+    transition: opacity 0.2s;
+}
+.request-button:hover {
+    opacity: 0.8;
+}
+.sign-button {
+    background-color: green;
+    font-weight: bold;
+    width: 100px;
+    height: 35px;
+    border-radius: 1px;
+    margin-left: 18px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    transition: box-shadow 0.2s;
+}
+.sign-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); 
+}
